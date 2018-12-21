@@ -10,9 +10,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
-/**
- * Created by Oclemmy on 3/29/2016 for ProgrammingWizards Channel.
- */
+
 public class CustomAdapter extends BaseAdapter {
     Context c;
     ArrayList<Movie> movies;

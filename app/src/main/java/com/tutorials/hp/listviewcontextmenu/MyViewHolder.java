@@ -5,9 +5,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-/**
- * Created by Oclemmy on 3/29/2016 for ProgrammingWizards Channel.
- */
+
 public class MyViewHolder implements View.OnLongClickListener,View.OnCreateContextMenuListener {
 
     ImageView img;
